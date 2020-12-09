@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mqtt_automation.iml" filepath="$PROJECT_DIR$/.idea/mqtt_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/roon-ha.iml" filepath="$PROJECT_DIR$/.idea/roon-ha.iml" />
     </modules>
   </component>
 </project>
